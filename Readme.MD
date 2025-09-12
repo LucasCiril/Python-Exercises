@@ -1,2 +1,2 @@
-#Pyhton3 - World 1
+# Pyhton3
 Esse repositório guarda exercícios do aprendizado em Python iniciante.
