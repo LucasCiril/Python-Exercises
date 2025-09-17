@@ -8,5 +8,4 @@ def calc():
     camb = origin / dol
 
     print(f'Você tem {origin} reais e pode comprar {camb:.2f} dólares.')
-    
 calc()
